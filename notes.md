@@ -7,3 +7,4 @@
 - mv: renames/moves the file provided in 1st argument to the path in the second argument 
 - mkdir: makes directory provided in 1st argument
 - rm: removes file provided in 1st argument
+- touch: to create emply files or change files timestamps
