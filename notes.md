@@ -16,3 +16,8 @@
 - git init: creates a .git directory inside of the current directory to track the changes in the current directory over time
 - git status: shows you the status of the branch you are on and the status of what has been tracked but not checked in yet.
 - git add $1: adds the provided filename to the git stage 
+
+
+## notes on goats
+- goats are great
+- they sleep
