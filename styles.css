@@ -1,0 +1,18 @@
+body {
+    background-color: #78c4d4;
+    font-family: sans-serif;
+}
+h1 {
+    color: #8f4f4f;
+    border: 10px solid #f2b4b4;
+    font-family: serif;
+}
+h2 {
+    color: #4c46a8;
+}
+a {
+    color: #8f4f4f;
+}
+a:visited {
+    color: #4c46a8;
+}
